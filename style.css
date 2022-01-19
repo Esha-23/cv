@@ -1,0 +1,40 @@
+body {
+    background-color: #E7FBBE;
+}
+
+h1 {
+    color: #5e8d4c;
+    font-family: "cursive",Lucida Handwriting;
+    margin-left: 40%;
+    display: block;
+    margin-bottom: 0;
+    
+}
+
+h2 {
+    color: #5e8d4c;
+    display: block;
+    margin-bottom: 0;
+    width: 30%;
+    
+}
+
+img {
+    margin-left: 40%;
+    box-shadow: 5px 10px 10px 10px #A3DA8D;
+    border-radius: 100px;
+}
+
+#p1 {
+
+    font-family: "serif", Garamond;
+    margin-left: 42%;
+    display: inline;
+
+}
+
+hr {
+    width : 20%;
+    border-top: 5px dotted #A3DA8D;
+}
+
